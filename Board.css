@@ -1,0 +1,8 @@
+.board-row {
+    display: flex;
+  }
+  
+  .board-row + .board-row {
+    margin-top: -1px;
+  }
+  
